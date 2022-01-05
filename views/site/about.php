@@ -11,8 +11,9 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        This is the About page. You may modify the following file to customize its content:
+        Esta app esta hecho por Francisco Javier Ramirez Rosales
     </p>
 
-    <code><?= __FILE__ ?></code>
+    <a href="https://galindoteam.com/frdigital/">FR Digital</a>
+
 </div>
